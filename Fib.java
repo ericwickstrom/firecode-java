@@ -24,5 +24,6 @@ public class Fib {
         System.out.println("N = 1, should be 1: " + fib(1));
         System.out.println("N = 2, should be 1: " + fib(2));
         System.out.println("N = 6, should be 5: " + fib(8));
+ 
     }
 }
